@@ -11,3 +11,6 @@ but yeah heres some photos
 
 Also some wiring stuff
 
+![iamge2](https://github.com/not-willem/BroAmp-EXG/blob/main/imagesforreadme/fgfhssfhfhs.png)
+
+also theres more ways you can use this [here](https://github.com/upsidedownlabs/BioAmp-EXG-Pill/tree/main/graphics/circuits/v1.0), its the same pins to wire they're not called anything different.
