@@ -14,3 +14,9 @@ Also some wiring stuff
 ![iamge2](https://github.com/not-willem/BroAmp-EXG/blob/main/imagesforreadme/fgfhssfhfhs.png)
 
 also theres more ways you can use this [here](https://github.com/upsidedownlabs/BioAmp-EXG-Pill/tree/main/graphics/circuits/v1.0), its the same pins to wire they're not called anything different.
+
+I haven't actually built it YET (i'll update this when i do) but i've 3d printed a prototype so you can see the size of it
+![image3](https://github.com/not-willem/BroAmp-EXG/blob/main/imagesforreadme/WIN_20260701_17_08_50_Pro.jpg)
+*stalagmite for scale
+
+but yeah once stardance funds me i can make it and put it here
