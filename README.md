@@ -20,3 +20,5 @@ I haven't actually built it YET (i'll update this when i do) but i've 3d printed
 *stalagmite for scale
 
 but yeah once stardance funds me i can make it and put it here
+
+also big update i found the [chip](https://www.lcsc.com/product-detail/C4370424.html?s_z=n_q_TL074H) so if you want you can buy that or not idk
