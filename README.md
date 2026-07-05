@@ -5,6 +5,8 @@ thanks to the project by [upsidedownlabs](https://github.com/upsidedownlabs/BioA
 
 you can find the pcb files in the production folder
 
+and [here](https://github.com/not-willem/BroAmp-EXG/blob/main/BOM%20and%20notes.csv) some notes and a BOM that you can put straight into LCSC to get the parts
+
 but yeah heres some photos
 
 ![image1](https://github.com/not-willem/BroAmp-EXG/blob/main/imagesforreadme/image%20(1).png)
