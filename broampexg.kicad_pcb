@@ -13,7 +13,8 @@
 		(rev "1")
 		(company "Chowder")
 		(comment 1 "Modified by Willem van Hulst on June 2026 - changed footprints and board dimensions.")
-		(comment 2 "yeah im so cool")
+		(comment 2 "Original design: BioAmp-EXG-Pill by UpsideDownLabs")
+		(comment 3 "thank you thank you thank you thank you ")
 	)
 	(layers
 		(0 "F.Cu" signal)
