@@ -7,6 +7,14 @@
 		(legacy_teardrops no)
 	)
 	(paper "A4")
+	(title_block
+		(title "BroAmp EXG")
+		(date "2026-07-06")
+		(rev "1")
+		(company "Chowder")
+		(comment 1 "Modified by Willem van Hulst on June 2026 - changed footprints and board dimensions.")
+		(comment 2 "yeah im so cool")
+	)
 	(layers
 		(0 "F.Cu" signal)
 		(2 "B.Cu" signal)
