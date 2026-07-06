@@ -13,7 +13,7 @@ a decent sized bio amp so i can wire it myself and so that it will be cheaper to
  - i have made the capacitors and resistors larger to make it easier to hand solder/machine
  - i have changed the board dimensions to 36.5 mm x 48 mm to again, make it easier to hand solder/machine
  - i have kept the same licsense on the hardware (CERN OHL S v2)
- - i have kept the legal notes, etc, on the silkscreen
+ - i have acknowledged the source on the silkscreen
  - the complete source for the modified design is in this github that you're reading this from
 
 
