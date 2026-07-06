@@ -1,14 +1,15 @@
 # BroAmp EXG
-a decent sized bio amp so i can wire it myself and so that it will be cheaper to produce unlike the other ones on the market
+a decent sized bio amp so i can wire it myself and so that it will be cheaper to produce unlike the other ones on the market <img src="https://emoji.slack-edge.com/T09V59WQY1E/ultrafastparrot/40d59f6df4da8934.gif" alt="partyparrot" width="20"/>
 
-## features
+
+## features <img src="https://emoji.slack-edge.com/T09V59WQY1E/woooo/da7f7c8575baa744.gif" alt="wow" width="20"/>
  - same as the BioAmp EXG Pill just easier to produce using cheap parts
  - can do EEG (activity in parts of the brain), EMG (muscle activity, e.g when you move your hand), ECG (heart rate detection) and EOG (eye blink detection)
  - i think you could probably use it for more but thats all that it was listed for on the original page
  - it can send the data back to pretty much any microcontroller with an analog input (ADC)
  - you can configure the gain, bandpass, filter and electrodes all on the board itself
 
-## changes so i dont get cooked by licensing  
+## changes so i dont get cooked by licensing <img src="https://emoji.slack-edge.com/T09V59WQY1E/thumbs-up/e974300682924889.png" alt="thumbs up" width="20"/>
  - date of modifications: June 2026
  - i have made the capacitors and resistors larger to make it easier to hand solder/machine
  - i have changed the board dimensions to 36.5 mm x 48 mm to again, make it easier to hand solder/machine
@@ -19,7 +20,7 @@ a decent sized bio amp so i can wire it myself and so that it will be cheaper to
 
 thanks to the project by [upsidedownlabs](https://github.com/upsidedownlabs/BioAmp-EXG-Pill) because it was super good and cool.
 
-software demos [here]
+software demos [here](https://github.com/upsidedownlabs/BioAmp-EXG-Pill#software)
 
 you can find the pcb files in the production folder
 
