@@ -29,9 +29,9 @@ and [here](https://github.com/not-willem/BroAmp-EXG/blob/main/BOM%20and%20notes.
 
 but yeah heres some photos
 
-![front]([https://github.com/not-willem/BroAmp-EXG/blob/main/imagesforreadme/image%20(1).png](https://github.com/not-willem/BroAmp-EXG/blob/main/imagesforreadme/jnjnjnjnjnjn.png))
-
-![back]()
+![front](https://github.com/not-willem/BroAmp-EXG/blob/main/imagesforreadme/jnjnjnjnjnjn.png)
+oh hello there
+![back](https://github.com/not-willem/BroAmp-EXG/blob/main/imagesforreadme/baclk.png)
 Also some wiring stuff
 
 ![iamge2](https://github.com/not-willem/BroAmp-EXG/blob/main/imagesforreadme/fgfhssfhfhs.png)
