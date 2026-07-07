@@ -10,6 +10,7 @@ a decent sized bio amp so i can wire it myself and so that it will be cheaper to
  - you can configure the gain, bandpass, filter and electrodes all on the board itself
 
 ## changes so i dont get cooked by licensing <img src="https://emoji.slack-edge.com/T09V59WQY1E/thumbs-up/e974300682924889.png" alt="thumbs up" width="20"/>
+ - original project: [here](https://github.com/upsidedownlabs/BioAmp-EXG-Pill)
  - date of modifications: June 2026
  - i have made the capacitors and resistors larger to make it easier to hand solder/machine
  - i have changed the board dimensions to 36.5 mm x 48 mm to again, make it easier to hand solder/machine
