@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/not-willem/BroAmp-EXG/blob/main/logo.png" alt="logo">
+</p>
+
 # BroAmp EXG
 a decent sized bio amp so i can wire it myself and so that it will be cheaper to produce unlike the other ones on the market <img src="https://emoji.slack-edge.com/T09V59WQY1E/ultrafastparrot/40d59f6df4da8934.gif" alt="partyparrot" width="20"/>
 
