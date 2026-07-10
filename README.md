@@ -45,6 +45,7 @@ but yeah heres some photos
 ![front](https://github.com/not-willem/BroAmp-EXG/blob/main/imagesforreadme/jnjnjnjnjnjn.png)
 oh hello there
 ![back](https://github.com/not-willem/BroAmp-EXG/blob/main/imagesforreadme/baclk.png)
+
 Also some wiring stuff
 
 ![iamge2](https://github.com/not-willem/BroAmp-EXG/blob/main/imagesforreadme/fgfhssfhfhs.png)
@@ -59,5 +60,8 @@ but yeah once stardance funds me i can make it and put it here
 
 also big update i found the [chip](https://www.lcsc.com/product-detail/C4370424.html?s_z=n_q_TL074H) so if you want you can buy that or not idk
 
-This design is released under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S-2.0).
-<img src="https://emoji.slack-edge.com/T09V59WQY1E/hectarelitre/4b7bd94bf460f5ac.jpg" alt="hectarelitre" width="20"/>
+but yeah check the BOM, its completed.
+
+Anyway I really hope you like this project and consider supporting me by starring this project and if you think you'd want to change anything you can fork the project then make a pull request
+
+##### This design is released under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S-2.0). <img src="https://emoji.slack-edge.com/T09V59WQY1E/hectarelitre/4b7bd94bf460f5ac.jpg" alt="hectarelitre" width="20"/>
