@@ -64,6 +64,8 @@ ALSO big news everyone the total cost of parts per board comes in at around $12.
 
 that's quite cheap compared to the $59.61 NZD for ONE from the actual website (btw you HAVE to buy 2 you can't just get one)
 
+P.S reading it again it seems the kit i'm refering to comes with "Two BioAmp EXG Pill boards, 15 gel electrodes, four 3-pin angled pin headers, four 3-pin straight pin headers, six alligator clips, and two 1.5 mm electrode cables" but still I find it a little silly you can't just buy the boards themselves
+
 Anyway I really hope you like this project and consider supporting me by starring this project and if you think you'd want to change anything you can fork the project then make a pull request
 
 ##### This design is released under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S-2.0). <img src="https://emoji.slack-edge.com/T09V59WQY1E/hectarelitre/4b7bd94bf460f5ac.jpg" alt="hectarelitre" width="20"/>
