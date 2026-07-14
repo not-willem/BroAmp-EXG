@@ -56,11 +56,13 @@ I haven't actually built it YET (i'll update this when i do) but i've 3d printed
 ![image3](https://github.com/not-willem/BroAmp-EXG/blob/main/imagesforreadme/WIN_20260701_17_08_50_Pro.jpg)
 *stalagmite for scale
 
-but yeah once stardance funds me i can make it and put it here
-
-also big update i found the [chip](https://www.lcsc.com/product-detail/C4370424.html?s_z=n_q_TL074H) so if you want you can buy that or not idk
+Once the parts arrive I can show you :D
 
 but yeah check the BOM, its completed.
+
+ALSO big news everyone the total cost of parts per board comes in at around $12.17 NZD so hooray!
+
+that's quite cheap compared to the $59.61 NZD for ONE from the actual website (btw you HAVE to buy 2 you can't just get one)
 
 Anyway I really hope you like this project and consider supporting me by starring this project and if you think you'd want to change anything you can fork the project then make a pull request
 
