@@ -58,6 +58,8 @@ I haven't actually built it YET (i'll update this when i do) but i've 3d printed
 
 okay i think i need a hot plate for soldering the smd part but i cant get funded for it so i'll find alternative ways to do it
 
+alright you can just use a heat gun awesome
+
 ALSO big news everyone the total cost of parts per board comes in at around $12.17 NZD so hooray!
 
 that's quite cheap compared to the $59.61 NZD for ONE from the actual website (btw you HAVE to buy 2 you can't just get one)
