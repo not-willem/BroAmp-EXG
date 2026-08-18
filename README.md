@@ -56,9 +56,7 @@ I haven't actually built it YET (i'll update this when i do) but i've 3d printed
 ![image3](https://github.com/not-willem/BroAmp-EXG/blob/main/imagesforreadme/WIN_20260701_17_08_50_Pro.jpg)
 *stalagmite for scale
 
-Once the parts arrive I can show you :D
-
-but yeah check the BOM, its completed.
+okay i think i need a hot plate for soldering the smd part but i cant get funded for it so i'll find alternative ways to do it
 
 ALSO big news everyone the total cost of parts per board comes in at around $12.17 NZD so hooray!
 
